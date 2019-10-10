@@ -14,7 +14,6 @@ install:
   - npm install
 
 script:
-  - cd docs
   - npm run build
   - echo "Removing unwanted files"
   - rm -vf _book/.travis.yml
@@ -23,11 +22,10 @@ script:
   - rm -vf _book/*.sh
 
 deploy:
-  - cd docs
   - provider: pages
     skip_cleanup: true
     github_token: $GH_TOKEN
-    local_dir: _book
+    local_dir: docs/_book
     target_branch: gh-pages
     on:
       branch: master
