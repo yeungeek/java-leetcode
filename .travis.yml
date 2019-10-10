@@ -10,10 +10,10 @@ cache:
     - node_modules
 
 install:
+  - cd docs
   - npm install
 
 script:
-  - cd docs
   - npm run build
   - echo "Removing unwanted files"
   - rm -vf _book/.travis.yml
