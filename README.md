@@ -1,4 +1,6 @@
-# [LeetCode](https://leetcode.com/problemset/algorithms/)
+# [LeetCode](https://yeungeek.github.io/java-leetcode/)
+[![Build Status](https://travis-ci.org/yeungeek/java-leetcode.svg?branch=master)](https://travis-ci.org/yeungeek/java-leetcode)
+
 
 
 # Reference
