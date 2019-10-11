@@ -7,6 +7,7 @@ LeetCode 题库
 * 题库
     - Easy
         - [Two Sum](problems/easy/001/README.md)
+        - [Reverse Linked List](problems/easy/206/README.md)
     - Medium
     - Hard
 * 数据结构与算法

@@ -9,7 +9,8 @@
 
 | #    | Title              | Difficulty         | Solution           | Tag                |
 | :--- | :----------------- | :----------------- | :----------------- | :----------------- |
-| 1    | [Two Sum](problems/easy/001/README.md)     | Easy               |                    |Array, Hash Table   |
+| 1    | [Two Sum](problems/easy/001/README.md)     | Easy               | [![](images/Solution.png)](https://github.com/yeungeek/java-leetcode/blob/master/leetcode/src/main/java/com/yeungeek/leetcode/easy/_001/TwoSum.java)                   |Array, Hash Table   |
+| 206  | [Reverse Linked List](problems/easy/206/README.md)     | Easy               |                  |Linked List  |
 
 # 参考
 * [LeetCode](https://leetcode.com/)
