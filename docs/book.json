@@ -6,7 +6,8 @@
       "mermaid-gb3",
       "github-issue-feedback",
       "github",
-      "theme-comscore"
+      "theme-comscore",
+      "katex"
     ],
     "pluginsConfig" : {
       "vistors-github": {
@@ -23,6 +24,9 @@
      },
      "github": {
       "url": "https://github.com/yeungeek/java-leetcode"
-     }
+     },
+     "mathjax":{
+      "forceSVG": true
     }
   }
+}
