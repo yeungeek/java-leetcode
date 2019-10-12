@@ -1,4 +1,11 @@
 {
+    "title": "数据结构与算法",
+    "author" : "yeungeek",
+    "links" : {
+      "sidebar" : {
+          "LeetCode" : "https://leetcode.com/"
+      }
+    },
     "plugins" : [
       "anchor-navigation-ex",
       "expandable-chapters-interactive",
@@ -7,7 +14,12 @@
       "github-issue-feedback",
       "github",
       "theme-comscore",
-      "katex"
+      "katex",
+      "-highlight",
+      "prism",
+      "prism-themes",
+      "flexible-alerts",
+      "lightbox"
     ],
     "pluginsConfig" : {
       "vistors-github": {
@@ -27,6 +39,22 @@
      },
      "mathjax":{
       "forceSVG": true
+    },
+    "theme-default": {
+      "showLevel": true
+    },
+    "prism": {
+      "css": [
+        "prism-themes/themes/prism-atom-dark.css"
+      ]
+    },
+    "flexible-alerts": {
+      "style": "flat",
+      "comment": {
+        "label": "Comment",
+        "icon": "fa fa-comments",
+        "className": "warning"
+      }
     }
   }
 }
