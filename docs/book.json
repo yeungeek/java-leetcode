@@ -54,6 +54,13 @@
         "label": "Comment",
         "icon": "fa fa-comments",
         "className": "warning"
+      },
+      "source": {
+        "label": "",
+        "icon": "fa fa-code",
+        "className": "info",
+        "labelVisibility":"hidden",
+        "iconVisibility":"hidden"
       }
     }
   }
