@@ -19,7 +19,8 @@
       "prism",
       "prism-themes",
       "flexible-alerts",
-      "lightbox"
+      "lightbox",
+      "splitter"
     ],
     "pluginsConfig" : {
       "vistors-github": {

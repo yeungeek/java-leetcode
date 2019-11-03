@@ -2,15 +2,16 @@
 # 数据结构与算法
 | #    | Title              | 实战题⽬(LeetCode)          | 
 | :--- | :----------------- | :-----------------         | 
-| 1    | [数组与链表](algo/Array/README.md)    | 206. Reverse Linked List<br/>24. Swap Nodes in Pairs<br>141. Linked List Cycle<br> 142. Linked List Cycle II<br>  25. Reverse Nodes in k-Group       | 
+| 1    | [数组与链表](algo/Array/README.md)    | 206. Reverse Linked List<br/>24. Swap Nodes in Pairs<br>141. Linked List Cycle<br> 142. Linked List Cycle II<br>  25. Reverse Nodes in k-Group <br/>21. Merge Two Sorted Lists <br/>19. Remove Nth Node From End of List <br/> 876. Middle of the Linked List     | 
 
 
 # 题库
 
 | #    | Title              | Difficulty         | Solution           | Tag                |
 | :--- | :----------------- | :----------------- | :----------------- | :----------------- |
-| 1    | [Two Sum](problems/easy/001/README.md)     | Easy               | [![](images/Solution.png)](https://github.com/yeungeek/java-leetcode/blob/master/leetcode/src/main/java/com/yeungeek/leetcode/easy/_001/TwoSum.java)                   |Array, Hash Table   |
-| 206  | [Reverse Linked List](problems/easy/206/README.md)     | Easy               |                  |Linked List  |
+| 1    | [Two Sum](problems/easy/001/README.md)     | Easy               | [Source](https://github.com/yeungeek/java-leetcode/blob/master/leetcode/src/main/java/com/yeungeek/leetcode/easy/_001/TwoSum.java)                   |Array, Hash Table   |
+|024|[Swap Nodes in Pairs](problems/medium/024/README.md)|Medium|Source|Linked List |
+| 206  | [Reverse Linked List](problems/easy/206/README.md)     | Easy               | [Source](https://github.com/yeungeek/java-leetcode/blob/master/leetcode/src/main/java/com/yeungeek/leetcode/easy/_206/ReverseLinkedList.java)      |Linked List  |
 
 # 参考
 * [LeetCode](https://leetcode.com/)
