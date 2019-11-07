@@ -2,7 +2,7 @@
 # 数据结构与算法
 | #    | Title              | 实战题⽬(LeetCode)          | 
 | :--- | :----------------- | :-----------------         | 
-| 1    | [数组与链表](algo/Array/README.md)    | 206. Reverse Linked List<br/>24. Swap Nodes in Pairs<br>141. Linked List Cycle<br> 142. Linked List Cycle II<br>  25. Reverse Nodes in k-Group <br/>21. Merge Two Sorted Lists <br/>19. Remove Nth Node From End of List <br/> 876. Middle of the Linked List     | 
+| 1    | [数组](algo/Struct/Array/README.md)与[链表](algo/Struct/LinkedList/README.md)    | 206. Reverse Linked List<br/>24. Swap Nodes in Pairs<br>141. Linked List Cycle<br> 142. Linked List Cycle II<br>  25. Reverse Nodes in k-Group <br/>21. Merge Two Sorted Lists <br/>19. Remove Nth Node From End of List <br/> 876. Middle of the Linked List     | 
 
 
 # 题库

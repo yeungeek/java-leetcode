@@ -14,4 +14,8 @@
 * 数据结构与算法
     - [概述](algo/README.md)
     - [复杂度分析](algo/Complexity/README.md)
-    - [数组与链表](algo/Array/README.md)
+    - 数据结构
+        - [数组](algo/Struct/Array/README.md)
+        - [链表](algo/Struct/LinkedList/README.md)
+    - 算法
+        - [递归](algo/Index/Recursion/README.md)
