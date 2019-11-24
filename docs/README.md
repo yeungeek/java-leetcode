@@ -10,7 +10,8 @@
 | #    | Title              | Difficulty         | Solution           | Tag                |
 | :--- | :----------------- | :----------------- | :----------------- | :----------------- |
 | 1    | [Two Sum](problems/easy/001/README.md)     | Easy               | [Source](https://github.com/yeungeek/java-leetcode/blob/master/leetcode/src/main/java/com/yeungeek/leetcode/easy/_001/TwoSum.java)                   |Array, Hash Table   |
-|024|[Swap Nodes in Pairs](problems/medium/024/README.md)|Medium|Source|Linked List |
+|024|[Swap Nodes in Pairs](problems/medium/024/README.md)|Medium|Source|Linked List|
+|141|[Linked List Cycle](problems/easy/141/README.md)|Easy|Source|Linked List, Tow Points |
 | 206  | [Reverse Linked List](problems/easy/206/README.md)     | Easy               | [Source](https://github.com/yeungeek/java-leetcode/blob/master/leetcode/src/main/java/com/yeungeek/leetcode/easy/_206/ReverseLinkedList.java)      |Linked List  |
 
 # 参考
