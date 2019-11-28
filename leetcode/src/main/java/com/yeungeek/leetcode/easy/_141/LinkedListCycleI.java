@@ -1,16 +1,21 @@
 package com.yeungeek.leetcode.easy._141;
 
 
+import com.yeungeek.leetcode.medium._142.LinkedListCycleII;
+
 import java.util.HashSet;
 import java.util.Set;
 
 public class LinkedListCycleI {
     public static void main(String[] args) {
         ListNode head = new ListNode(3);
-        head.next = new ListNode(2);
-        head.next.next = new ListNode(0);
-        head.next.next.next = new ListNode(-4);
-        head.next.next.next.next = new ListNode(2);
+        ListNode f = new ListNode(2);
+        ListNode s = new ListNode(0);
+        ListNode t = new ListNode(-4);
+        head.next = f;
+        f.next = s;
+        s.next = t;
+        t.next = f;
 
         System.out.println(new LinkedListCycleI().hasCycle(head));
     }
