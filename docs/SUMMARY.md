@@ -7,6 +7,7 @@
 * 题库
     - Easy
         - [001.Two Sum](problems/easy/001/README.md)
+        - [020.Valid Parentheses](problems/easy/020/README.md)
         - [141.Linked List Cycle](problems/easy/141/README.md)
         - [206.Reverse Linked List](problems/easy/206/README.md)
     - Medium
@@ -23,3 +24,4 @@
         - [队列](algo/Struct/Queue/README.md)
     - 算法
         - [递归](algo/Index/Recursion/README.md)
+        - [排序](algo/Index/Sort/README.md)
