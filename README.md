@@ -11,3 +11,4 @@
 * [awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
 * [CS-Notes](https://github.com/CyC2018/CS-Notes)
 * [Interview](https://github.com/apachecn/Interview)
+* [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
