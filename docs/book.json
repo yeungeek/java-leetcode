@@ -20,7 +20,8 @@
       "prism-themes",
       "flexible-alerts",
       "lightbox",
-      "splitter"
+      "splitter",
+      "chinese-video"
     ],
     "pluginsConfig" : {
       "vistors-github": {
