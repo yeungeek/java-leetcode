@@ -71,7 +71,7 @@ Output: true
 ```
 
 示例 5:
-```
+```markdown
 输入: "{[]}"
 输出: true
 ```
