@@ -1,4 +1,5 @@
 # Valid Parentheses
+## Valid Parentheses
 Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
 An input string is valid if:
@@ -37,7 +38,7 @@ Input: "{[]}"
 Output: true
 ```
 
-# 有效的括号
+## 有效的括号
 给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串，判断字符串是否有效。
 
 有效字符串需满足：

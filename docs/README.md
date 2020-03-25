@@ -5,6 +5,7 @@
 | 1    | [数组](algo/Struct/Array/README.md)与[链表](algo/Struct/LinkedList/README.md)    | 206. Reverse Linked List<br/>24. Swap Nodes in Pairs<br>141. Linked List Cycle<br> 142. Linked List Cycle II<br>  25. Reverse Nodes in k-Group <br/>21. Merge Two Sorted Lists <br/>19. Remove Nth Node From End of List <br/> 876. Middle of the Linked List     | 
 |2 |[栈](algo/Struct/Stack/README.md)|20. Valid Parentheses <br/> 225. Implement Stack using Queues <br/> 232. Implement Queue using Stacks|
 |3 |[队列](algo/Struct/Queue/README.md)|703. Kth Largest Element in a Stream <br/>239. Sliding Window Maximum|
+|4 |[二叉树](algo/Struct/BinaryTree/README.md)|104. Maximum Depth of Binary Tree<br/>450. Delete Node in a BST<br>124. Binary Tree Maximum Path Sum|
 
 
 # 题库
