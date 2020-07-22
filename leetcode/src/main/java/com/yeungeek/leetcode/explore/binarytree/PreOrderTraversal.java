@@ -1,5 +1,6 @@
 package com.yeungeek.leetcode.explore.binarytree;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -13,9 +14,30 @@ public class PreOrderTraversal {
         right.left = left2;
 
         PreOrderTraversal traversal = new PreOrderTraversal();
-        List<Integer> resultList = traversal.preOrderTraversal(node);
+//        List<Integer> resultList = traversal.preOrderTraversal(node);
+        List<Integer> resultList = traversal.recursionPreOrder(node);
         for (Integer value : resultList) {
             System.out.print(value);
+        }
+    }
+
+    public List<Integer> recursionPreOrder(TreeNode root) {
+        List<Integer> list = new ArrayList<>();
+        recursionNode(root, list);
+        return list;
+    }
+
+    private void recursionNode(TreeNode node, List<Integer> list) {
+        if (null != node) {
+            list.add(node.val);
+
+            if (null != node.left) {
+                recursionNode(node.left, list);
+            }
+
+            if (null != node.right) {
+                recursionNode(node.right, list);
+            }
         }
     }
 
