@@ -11,11 +11,11 @@ public class PostOrderTraversal {
         TreeNode left1 = new TreeNode(1);
         TreeNode right1 = new TreeNode(2);
 
-        node.left = left;
-        node.right = right;
-
-        left.left = left1;
-        left.right = right1;
+//        node.left = left;
+//        node.right = right;
+//
+//        left.left = left1;
+//        left.right = right1;
 
         PostOrderTraversal traversal = new PostOrderTraversal();
         List<Integer> resultList = traversal.postOrderTraversal(node);
